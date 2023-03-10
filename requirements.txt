@@ -1,0 +1,4 @@
+Libraries to be installed:
+--pip install opencv-python
+--pip install deepface
+--pip install flask(if not there)
